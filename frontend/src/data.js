@@ -7,8 +7,8 @@ const data = {
             image:'/images/Product1.jpg',
             price:10,
             brand:'Can Yayınları',
-            rating:5,
-            numReviews:10,
+            rating:2.70,
+            numReviews:22,
             description:'Can Yayınları - Mutlu Olma Sanatı - Arthur Schopenhauer'
         },
         {
@@ -18,8 +18,8 @@ const data = {
             image:'/images/Product2.jpg',
             price:27,
             brand:'Can Yayınları',
-            rating:5,
-            numReviews:10,
+            rating:4.7,
+            numReviews:18,
             description:'Can Yayınları - Güneşi Uyandıralım - Jose Mauro De Vasconcelos'
         },
         {
@@ -29,8 +29,8 @@ const data = {
             image:'/images/Product3.jpg',
             price:10,
             brand:'Ayrıntı Yayınları',
-            rating:5,
-            numReviews:10,
+            rating:3.90,
+            numReviews:14,
             description:'Ayrıntı Yayınları - Kurtlarla Koşan Kadınlar - Clarissa Pinkola Estes'
         },
         {
@@ -40,8 +40,8 @@ const data = {
             image:'/images/Product4.jpg',
             price:25,
             brand:'Metis',
-            rating:5,
-            numReviews:10,
+            rating:4.80,
+            numReviews:11,
             description:'Metis - Mülksüzler - Ursula K. Le Guin'
         },
         {
@@ -51,8 +51,8 @@ const data = {
             image:'/images/Product5.jpg',
             price:22,
             brand:'İş Bankası Yayınları',
-            rating:5,
-            numReviews:10,
+            rating:3.30,
+            numReviews:13,
             description:'İş Bankası Yayınları - Suç ve Ceza - Fyodor Mihayloviç Dostoyevski'
         },
         {
@@ -62,8 +62,8 @@ const data = {
             image:'/images/Product6.jpg',
             price:55,
             brand:'Doğan Kitap',
-            rating:5,
-            numReviews:10,
+            rating:4.70,
+            numReviews:28,
             description:'Doğan Kitap - Siyah Kan - Jean Christophe Grange '
         },
             
